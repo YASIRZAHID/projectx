@@ -1,0 +1,27 @@
+[submodule "brain"]
+  path = brain
+  url = git@github.com:YASIRZAHID/brain.git
+
+[submodule "central-auth"]
+  path = central-auth
+  url = git@github.com:YASIRZAHID/central-auth.git
+
+[submodule "central-backend"]
+  path = central-backend
+  url = git@github.com:YASIRZAHID/central-backend.git
+  
+[submodule "shooter-front-end"]
+  path = shooter-front-end
+  url = git@github.com:YASIRZAHID/shooter-front-end.git
+
+[submodule "target-front-end"]
+  path = target-front-end
+  url = git@github.com:YASIRZAHID/target-front-end.git
+
+[submodule "management"]
+  path = management
+  url = git@github.com:YASIRZAHID/management.git
+
+[submodule "verifier"]
+  path = verifier
+  url = git@github.com:YASIRZAHID/verifier.git
